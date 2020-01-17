@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CalculatorExpression:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CalculatorExpression_jar</output-path>
+    <root id="archive" name="CalculatorExpression.jar">
+      <element id="module-output" name="CalculatorExpression" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/controlsfx-8.40.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/jmetro-5.3.jar" path-in-jar="/" />
+      <element id="library" level="project" name="controlsfx-8.40.14" />
+      <element id="library" level="project" name="jmetro-5.3" />
+    </root>
+  </artifact>
+</component>
